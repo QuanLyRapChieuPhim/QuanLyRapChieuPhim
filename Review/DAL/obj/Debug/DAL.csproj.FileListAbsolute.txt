@@ -15,3 +15,9 @@ C:\Users\user\Downloads\Review-20170320T083256Z-001\Review\Bin\DAL.pdb
 C:\Users\user\Downloads\Review-20170320T083256Z-001\Review\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\user\Downloads\Review-20170320T083256Z-001\Review\DAL\obj\Debug\DAL.dll
 C:\Users\user\Downloads\Review-20170320T083256Z-001\Review\DAL\obj\Debug\DAL.pdb
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\Bin\DAL.dll
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\Bin\DAL.pdb
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\DAL\obj\Debug\DAL.dll
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\DAL\obj\Debug\DAL.pdb
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\Bin\DAL.dll.config

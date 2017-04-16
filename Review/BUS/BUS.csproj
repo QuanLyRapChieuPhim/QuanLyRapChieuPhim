@@ -40,8 +40,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GioChieuBUS.cs" />
+    <Compile Include="NgayChieuBUS.cs" />
+    <Compile Include="OnePhimBus.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="qlbhBUS.cs" />
+    <Compile Include="PhimBus.cs" />
+    <Compile Include="SuaPhimBus.cs" />
+    <Compile Include="ThemPhimBus.cs" />
+    <Compile Include="XoaPhimBus.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DAL\DAL.csproj">

@@ -11,3 +11,7 @@ C:\Users\user\Downloads\Review-20170320T083256Z-001\Review\Bin\DTO.dll
 C:\Users\user\Downloads\Review-20170320T083256Z-001\Review\Bin\DTO.pdb
 C:\Users\user\Downloads\Review-20170320T083256Z-001\Review\DTO\obj\Debug\DTO.dll
 C:\Users\user\Downloads\Review-20170320T083256Z-001\Review\DTO\obj\Debug\DTO.pdb
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\Bin\DTO.dll
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\Bin\DTO.pdb
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\DTO\obj\Debug\DTO.dll
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\DTO\obj\Debug\DTO.pdb

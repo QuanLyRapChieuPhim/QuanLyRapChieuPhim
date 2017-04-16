@@ -1,21 +1,30 @@
 ﻿using System;
+
 using System.Collections.Generic;
+
 using System.Linq;
+
 using System.Text;
+
 using System.Data;
+
 using System.Data.SqlClient;
+
 using System.Configuration;
 
+
+
 namespace DAL
-{
-    class DataProvider
+{    
+	class DataProvider
     {
-        string Strcn = "";
-        SqlConnection cn;
+        public string Strcn;
+        public SqlConnection cn;
 
         public DataProvider()
         {
-            Strcn = ConfigurationManager.ConnectionStrings["Strcn"].ConnectionString;
+            //Strcn = ConfigurationManager.ConnectionStrings["Strcn"].ConnectionString;
+            Strcn = @"Server= PC01\SV01; Database= MovieDB; Integrated Security = true;";
             cn = new SqlConnection(Strcn);
         }
 
@@ -23,7 +32,6 @@ namespace DAL
         {
             try
             {
-
                 if (cn != null && cn.State != ConnectionState.Open)
                 {
                     cn.Open();
@@ -37,13 +45,22 @@ namespace DAL
 
         public void DisConnect()
         {
-            if (cn != null && cn.State != ConnectionState.Closed)
+            try
             {
-                cn.Close();
+                if (cn != null && cn.State != ConnectionState.Closed)
+                {
+                    cn.Close();
+                }
             }
-        }
-
-        
+            catch (SqlException ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                cn.Dispose();
+            }
+        }        
 
         public SqlDataReader executeReader(string sql)
         {

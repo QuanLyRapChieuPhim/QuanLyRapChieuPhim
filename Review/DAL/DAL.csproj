@@ -42,14 +42,23 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataProvider.cs" />
+    <Compile Include="NgayChieuDAL.cs" />
+    <Compile Include="OnePhimDAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="qlbhDAL.cs" />
+    <Compile Include="PhimDAL.cs" />
+    <Compile Include="SuaPhimDAL.cs" />
+    <Compile Include="ThemPhimDAL.cs" />
+    <Compile Include="XoaPhimDAL.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DTO\DTO.csproj">
       <Project>{52B4832B-11C8-45B2-979B-7E425E943D07}</Project>
       <Name>DTO</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <Compile Include="GioChieuDAL.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

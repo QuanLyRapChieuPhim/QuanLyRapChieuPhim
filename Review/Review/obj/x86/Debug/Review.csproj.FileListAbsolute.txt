@@ -24,3 +24,12 @@ C:\Users\user\Downloads\Review-20170320T083256Z-001\Review\Review\obj\x86\Debug\
 C:\Users\user\Downloads\Review-20170320T083256Z-001\Review\Review\obj\x86\Debug\Review.Properties.Resources.resources
 C:\Users\user\Downloads\Review-20170320T083256Z-001\Review\Review\obj\x86\Debug\Review.csproj.GenerateResource.Cache
 C:\Users\user\Downloads\Review-20170320T083256Z-001\Review\Bin\Review.exe.config
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\Review\obj\x86\Debug\Review.exe
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\Review\obj\x86\Debug\Review.pdb
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\Review\obj\x86\Debug\Review.csprojResolveAssemblyReference.cache
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\Review\obj\x86\Debug\Review.Properties.Resources.resources
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\Review\obj\x86\Debug\Review.csproj.GenerateResource.Cache
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\Bin\Review.exe
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\Bin\Review.pdb
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\Review\obj\x86\Debug\Review.Phim.resources
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\Review\obj\x86\Debug\Review.ThongTinPhim.resources

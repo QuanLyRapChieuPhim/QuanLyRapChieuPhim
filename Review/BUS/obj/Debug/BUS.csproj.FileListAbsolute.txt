@@ -13,3 +13,8 @@ C:\Users\user\Downloads\Review-20170320T083256Z-001\Review\Bin\BUS.pdb
 C:\Users\user\Downloads\Review-20170320T083256Z-001\Review\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
 C:\Users\user\Downloads\Review-20170320T083256Z-001\Review\BUS\obj\Debug\BUS.dll
 C:\Users\user\Downloads\Review-20170320T083256Z-001\Review\BUS\obj\Debug\BUS.pdb
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\Bin\BUS.dll
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\Bin\BUS.pdb
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\BUS\obj\Debug\BUS.dll
+E:\Hoc tap\Lập trình CSDL\QuanLyRapChieuPhim-master\Review\BUS\obj\Debug\BUS.pdb
