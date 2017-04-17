@@ -43,3 +43,13 @@ C:\Users\sudo\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\Review\Review\obj\x8
 C:\Users\sudo\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\Review\Review\obj\x86\Debug\Review.csproj.GenerateResource.Cache
 C:\Users\sudo\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\Review\Review\obj\x86\Debug\Review.exe
 C:\Users\sudo\Desktop\QuanLyRapChieuPhim\QuanLyRapChieuPhim\Review\Review\obj\x86\Debug\Review.pdb
+C:\Users\sudo\Desktop\Testclone\QuanLyRapChieuPhim\Review\Review\obj\x86\Debug\Review.csprojResolveAssemblyReference.cache
+C:\Users\sudo\Desktop\Testclone\QuanLyRapChieuPhim\Review\Review\obj\x86\Debug\Review.exe
+C:\Users\sudo\Desktop\Testclone\QuanLyRapChieuPhim\Review\Review\obj\x86\Debug\Review.pdb
+C:\Users\sudo\Desktop\Testclone\QuanLyRapChieuPhim\Review\Bin\Review.exe
+C:\Users\sudo\Desktop\Testclone\QuanLyRapChieuPhim\Review\Bin\Review.pdb
+C:\Users\sudo\Desktop\Testclone\QuanLyRapChieuPhim\Review\Review\obj\x86\Debug\Review.Login.resources
+C:\Users\sudo\Desktop\Testclone\QuanLyRapChieuPhim\Review\Review\obj\x86\Debug\Review.Phim.resources
+C:\Users\sudo\Desktop\Testclone\QuanLyRapChieuPhim\Review\Review\obj\x86\Debug\Review.Properties.Resources.resources
+C:\Users\sudo\Desktop\Testclone\QuanLyRapChieuPhim\Review\Review\obj\x86\Debug\Review.ThongTinPhim.resources
+C:\Users\sudo\Desktop\Testclone\QuanLyRapChieuPhim\Review\Review\obj\x86\Debug\Review.csproj.GenerateResource.Cache
