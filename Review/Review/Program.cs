@@ -15,7 +15,7 @@ namespace Review
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Phim());
+            Application.Run(new Login());
 
         }
     }

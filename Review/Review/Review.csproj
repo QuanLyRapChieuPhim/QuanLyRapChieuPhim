@@ -48,6 +48,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConvertImage.cs" />
+    <Compile Include="Login.cs" />
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
     <Compile Include="Phim.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +66,9 @@
     <Compile Include="ThongTinPhim.Designer.cs">
       <DependentUpon>ThongTinPhim.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Phim.resx">
       <DependentUpon>Phim.cs</DependentUpon>
     </EmbeddedResource>
